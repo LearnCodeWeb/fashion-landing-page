@@ -1,10 +1,10 @@
 <?php
 	if(isset($_REQUEST['email']) and $_REQUEST['email']!="")
 	{
-		 $to      	=		$_REQUEST['email']; //"zaid_bin_khalid@hotmail.co.uk"; email sended To
-		 $from		=		"zaid_bin_khalid@hotmail.co.uk"; // Write your email address here. email send From
+		 $to      	=		$_REQUEST['email']; //"zaidbinkhalidk@yahoo.com"; email sended To
+		 $from		=		"zaidbinkhalidk@yahoo.com"; // Write your email address here. email send From
 		 $name    	=		$_REQUEST['name']; //form Name here
-		 $message   =		$_REQUEST['message']; //form Message here
+		 $message   	=		$_REQUEST['message']; //form Message here
 		 $subject = "This is subject"; //Your subject here
 		 
 		 $body = "<b>".$to."</b>";
