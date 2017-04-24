@@ -1,0 +1,112 @@
+/* GLOBAL STYLES About slider //Mian Zaid
+Author = Mian Zaid Bin Khalid
+-------------------------------------------------- */
+
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+._slider_sec_z .carousel {
+	width:100%;
+	margin:0px auto 0px auto;
+}
+
+._slider_sec_z .slide{
+	width:100%;
+}
+
+._slider_sec_z .carousel-inner  .item  img
+{
+	width:100% !important;
+	height:800px !important;
+}
+
+.carousel-caption
+{
+	width:50%;
+	padding:40px 20px 40px 20px;
+	background:rgba(0,0,0,.5);
+	position:absolute;
+	left:25%;
+	bottom:50%;
+}
+
+.carousel-caption h6
+{
+	text-align:center;
+	text-transform:uppercase;
+	font-size:4em;
+	color:rgba(255,255,255,1);
+}
+
+.carousel-caption p,strong
+{
+	font-family:Brush Script MT;
+	font-size:2em;
+	color:#00CCCC;
+}
+
+/*#####################
+Additional Styles (required)
+######################*/
+
+._slider_sec_z .carousel-indicators li {
+   width: 10px; 
+   height: 10px; 
+   background: #00CCCC;
+   border:0 none;
+   margin: 3px 0px 0px 0px;
+   /* Rotate */
+   -webkit-transform: rotate(-45deg);
+   -moz-transform: rotate(-45deg);
+   -ms-transform: rotate(-45deg);
+   -o-transform: rotate(-45deg);
+   transform: rotate(-45deg);
+   /* Rotate Origin */
+   -webkit-transform-origin: 0 100%;
+   -moz-transform-origin: 0 100%;
+   -ms-transform-origin: 0 100%;
+   -o-transform-origin: 0 100%;
+   transform-origin: 0 100%;
+
+}
+._slider_sec_z .carousel-indicators .active {
+   width: 10px; 
+   height: 10px; 
+   background: #000000;
+   border:2px solid #00CCCC;
+   margin: 3px 0px 0px 0px;
+   /* Rotate */
+   -webkit-transform: rotate(-45deg);
+   -moz-transform: rotate(-45deg);
+   -ms-transform: rotate(-45deg);
+   -o-transform: rotate(-45deg);
+   transform: rotate(-45deg);
+   /* Rotate Origin */
+   -webkit-transform-origin: 0 100%;
+   -moz-transform-origin: 0 100%;
+   -ms-transform-origin: 0 100%;
+   -o-transform-origin: 0 100%;
+   transform-origin: 0 100%;
+
+}
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+@media (max-width: 480px) {
+}
+
+@media(max-width:767px){
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+	
+}
+
+@media (min-width: 1200px) {
+}

@@ -1,0 +1,56 @@
+@media (min-width:1024px) and (max-width:1270px){.sec_three_z .brand_gallery ul.nav_brand{padding:0px 0px 0px 8px;}
+.sec_three_z .brand_gallery ul.nav_brand li{max-width:218px;width:100%;}
+.sec_three_z .brands_sec{width:90%;}
+.sec_six_z .competitors_sec ul li{width:24.7%;}
+.sec_four_z .slides span{left:42%;}
+}
+@media (min-width:768px) and (max-width:1023px){.sec_three_z .brands_sec .col-xs-offset-2,
+.sec_four_z .journal_sec .col-xs-offset-2{margin-left:0px;}
+.sec_one_z .nav > li > a{padding:5px;}
+.sec_three_z .brand_gallery ul.nav_brand{padding:0px 0px 0px 25px;}
+.sec_three_z .brand_gallery ul.nav_brand li{max-width:221px;width:30.7%;}
+.sec_three_z .brand_gallery ul.nav_brand img{width:100%;}
+.sec_four_z .slides span{left:39%;}
+.sec_six_z .competitors_sec ul li{width:24.6%;}
+}
+@media (min-width:479px) and (max-width:640px){.sec_three_z .brands_sec .col-xs-offset-2,
+.sec_four_z .journal_sec .col-xs-offset-2{margin-left:0px;}
+.sec_one_z .nav > li > a{padding:3px 3px;}
+.sec_two_z .about_sec .well{margin-top:20px;}
+.sec_four_z .slides span{left:39%;}
+.sec_six_z .competitors_sec ul li{width:24.6%;padding:20px;}
+.sec_seven_z .competitors_sec ul li{width:49.7%;}
+.sec_eight_z .container{width:90%;}
+}
+@media (min-width:320px) and (max-width:480px){.brand-name{width:40%;}
+.sec_three_z .brands_sec .col-xs-offset-2,
+.sec_four_z .journal_sec .col-xs-offset-2{margin-left:0px;}
+.sec_two_z .about_sec h1 span,
+.sec_three_z .brands_sec h1 span,
+.sec_four_z .journal_sec h1 span,
+.sec_seven_z .contact_us h1 span{top:-1px;padding:10px 40px;}
+.header .nav-justified{margin-top:1px;}
+.sec_one_z .nav > li > a{padding:2px;}
+.sec_one_z #custom_carousel .item .img-1,
+.sec_one_z #custom_carousel .item .img-2,
+.sec_one_z #custom_carousel .item .img-3,
+.sec_one_z #custom_carousel .item .img-4,
+.sec_one_z #custom_carousel .item .img-5,
+.sec_one_z #custom_carousel .item .img-6{min-height:200px;}
+.sec_one_z #custom_carousel .carousel-caption h1{font-size:18px;}
+.sec_one_z #custom_carousel .carousel-caption p{font-size:12px;}
+.sec_two_z .about_sec .well{margin-top:20px;}
+.sec_three_z .brand_gallery ul.nav_brand{padding:0px 0px 0px 10px;}
+.sec_three_z .brand_gallery ul.nav_brand li{width:46%;}
+.sec_three_z .brand_gallery ul.nav_brand img{width:100%;}
+.sec_four_z .slides span{padding:51px 90px 45px 31px;left:38%;}
+.sec_six_z .competitors_sec ul li{width:49.5%;padding:15px;}
+.sec_seven_z .form_container{margin:0px;position:relative;background:rgba(0,0,0,0.8);}
+.sec_seven_z .competitors_sec ul li{width:49.5%;}
+.sec_eight_z .container{width:90%;}
+h1,h2{font-size:20px;}
+}
+@media (min-width:320px) and (max-width:340px){.sec_three_z .brand_gallery ul.nav_brand li{max-width:221px;width:100%;}
+.sec_six_z .competitors_sec ul li{width:49.5%;padding:13px;}
+.sec_four_z .slides span{padding:51px 90px 45px 31px;left:33%;}
+}
