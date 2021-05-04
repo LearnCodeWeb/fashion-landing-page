@@ -1,0 +1,32 @@
+{
+    "name": "learncodeweb/fashion-landing-page",
+    "description": "Fashion Bootstrap landing page for beginners.",
+    "homepage": "https://learncodeweb.com/bootstrap-framework/free-responsive-html-bootstrap-landing-page/",
+    "type": "html-landing-page",
+    "keywords": [
+        "HTML Free Landing Page",
+        "BS3",
+        "HTML",
+        "CSS",
+        "Free",
+        "Fashion Landing Page",
+        "Single page",
+        "Portfolio",
+        "Responsive",
+        "learncodeweb.com"
+    ],
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Khalid Zaid Bin [Mian Zaid]",
+            "email": "zaid@learncodeweb.com"
+        }
+    ],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/LearnCodeWeb/fashion-landing-page/issues"
+    },
+    "require": {
+        "composer/installers": "1.*"
+    }
+}
